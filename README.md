@@ -9,3 +9,7 @@ At the end of the game, the total number of enemies killed will be displayed.
 *A* and *D* rotate your spaceship to the left and to the right respectively.<br>
 *W* activates the thrusters and propels you forwards.<br>
 *Space* shoots a projectile.
+
+## How to Install
+Open the file *SpaceWars* as a project in Unity. From there, you can either play in Unity or
+build it and run it on your own.
